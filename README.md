@@ -15,7 +15,7 @@ https://ieeexplore.ieee.org/abstract/document/11346806
 
 This repository provides the **reference Python implementation** and **characterization data** detailed in our study of Apple's Synthetic Defocus Noise Pattern (SDNP).
 
-<img src="figs/portrait_mode_diagram.svg" width="80%" alt="Portrait Mode Diagram">
+<img src="figs/portrait_mode_diagram.svg" width="100%" alt="Portrait Mode Diagram">
 
 **Key Resources:**
 
