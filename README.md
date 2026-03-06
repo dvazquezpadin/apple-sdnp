@@ -184,6 +184,8 @@ Expected Output:
 
 <img src="figs/BP_localization.png" width="40%" alt="BP localization NCC map">
 
+**Note:** Image taken from the [Dataset](https://lesc.dinfo.unifi.it/PrnuModernDevices/) used in the experiments reported by Albisani *et al.* in "Checking PRNU Usability on Modern Devices," IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2021.
+
 ---
 
 # BP Comparison Example

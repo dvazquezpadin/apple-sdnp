@@ -373,11 +373,11 @@ def BP_comparison_example(BP1_path, BP2_path, b_flip=False):
 if __name__ == "__main__":
 
     # Example: comparison between two BPs
-    BP1_path = "/home/david/Apple_BPs/12MP/BP06_12MP_NL_HEIC.mat"
-    BP2_path = "/home/david/Apple_BPs/12MP/BP04_12MP_NL_JPEG.mat"
+    BP1_path = "/path/to/BP06_12MP_NL_HEIC.mat"
+    BP2_path = "/path/to/BP04_12MP_NL_JPEG.mat"
     BP_comparison_example(BP1_path, BP2_path, b_flip=True)
 
     # Example: BP detection in an image
-    BP_path = "/home/david/Apple_BPs/12MP/BP04_12MP_NL_JPEG.mat"
-    im_path = "/home/david/Pictures/Apple/iPhone 11/4032x3024/C21/test/06.jpg"
+    BP_path = "/path/to/BP04_12MP_NL_JPEG.mat"
+    im_path = "/path/to/C21/bokeh/01 (6).jpg"
     BP_detection_and_localization_example(BP_path, im_path)
