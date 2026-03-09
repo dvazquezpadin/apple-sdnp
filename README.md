@@ -99,7 +99,7 @@ Table legend:
 
 **Partial Matches** are categorized into four types based on their specific NCC map characteristics:
 
-<img src="figs/partial_matches.svg" width="64%" alt="Partial Matches Legend">
+<img src="figs/partial_matches.svg" width="100%" alt="Partial Matches Legend">
 
 ---
 
@@ -182,7 +182,7 @@ BP_detection_and_localization_example(BP_path, im_path)
 
 Expected Output:
 
-<img src="figs/BP_localization.png" width="40%" alt="BP localization NCC map">
+<img src="figs/BP_localization.png" width="50%" alt="BP localization NCC map">
 
 **Note:** Image taken from the [Dataset](https://lesc.dinfo.unifi.it/PrnuModernDevices/) used in the experiments reported by Albisani *et al.* in "Checking PRNU Usability on Modern Devices," IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2021.
 
@@ -203,13 +203,13 @@ BP_comparison_example(BP1_path, BP2_path, b_flip=True)
 
 Expected Output:
 
-<img src="figs/BP_comparison.png" width="40%" alt="BP comparison: BP ⑥ vs BP ④(↔)">
+<img src="figs/BP_comparison.png" width="50%" alt="BP comparison: BP ⑥ vs BP ④(↔)">
 
 ---
 
 # Requirements
 
-Python ≥ 3.9
+Python ≥ 3.12
 
 Required packages:
 ```
