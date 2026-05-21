@@ -11,6 +11,8 @@ https://ieeexplore.ieee.org/abstract/document/11346806
 
 [![Paper PDF](https://img.shields.io/badge/Paper-PDF-blue?style=for-the-badge)](https://gpsc.uvigo.es/wp-content/uploads/2026/03/TIFS2026_dvazquez_fperez_pmperez.pdf)
 [![Technical Report](https://img.shields.io/badge/Technical%20Report-PDF-orange?style=for-the-badge)](https://gpsc.uvigo.es/wp-content/uploads/2026/03/TechRep_Apple_SDNP_dvazquez_fperez_pmperez.pdf)
+[![Apple's BPs](https://img.shields.io/badge/Apple's%20BPs-ZIP-green?style=for-the-badge)](https://ggl.link/zJOqJks)
+[![Apple Portrait Image Dataset](https://img.shields.io/badge/Apple%20Portrait%20Image%20Dataset-ZIP-green?style=for-the-badge)](https://ggl.link/AyEXwzp)
 
 ### Citation
 
