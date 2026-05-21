@@ -292,9 +292,9 @@ The complete dataset, including released images and JSON files containing Flickr
 | D38 | iPhone 11 Pro     | 4 / 4            | Direct download     | [ZIP](https://ggl.link/c0lnFBl)                                                                |
 | D39 | iPhone 11 Pro Max | 0 / 12           | External            | [C22 - Albisani *et al.*, 2021](https://lesc.dinfo.unifi.it/PrnuModernDevices/C22/bokeh/)      |
 | D40 | iPhone 11 Pro Max | 0 / 13           | External (GSMArena) | [iPhone 11 Pro Max review](https://www.gsmarena.com/apple_iphone_11_pro_max-review-1991p7.php) |
-| D41 | iPhone 11 Pro Max | 20 / 20          | Direct download     | [ZIP](https://ggl.link/c0lnFBl)                                                                |
+| D41 | iPhone 11 Pro Max | 20 / 20          | Direct download     | [ZIP](https://ggl.link/HZjXbzM)                                                                |
 | D42 | iPhone SE (2nd)   | 0 / 4            | External (GSMArena) | [iPhone SE (2nd) review](https://www.gsmarena.com/apple_iphone_se_2020-review-2108p5.php)      |
-| D43 | iPhone SE (2nd)   | 20 / 20          | Direct download     | [ZIP](https://ggl.link/NZuIPoM)                                                                |
+| D43 | iPhone SE (2nd)   | 18 / 20          | Direct download     | [ZIP](https://ggl.link/NZuIPoM)                                                                |
 | D44 | iPhone 12         | 0 / 52           | Flickr references   | Not publicly redistributable                                                                   |
 | D45 | iPhone 12         | 0 / 6            | Flickr references   | Not publicly redistributable                                                                   |
 | D46 | iPhone 12         | 0 / 7            | External (GSMArena) | [iPhone 12 review](https://www.gsmarena.com/apple_iphone_12-review-2187p5.php)                 |
