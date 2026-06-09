@@ -318,30 +318,30 @@ The complete dataset, including released images and JSON files containing Flickr
 | D62 | iPhone 13 mini    | 0 / 2            | External (GSMArena) | [iPhone 13 mini review](https://www.gsmarena.com/apple_iphone_13_mini-review-2333p5.php)       |
 | D63 | iPhone 13 mini    | 20 / 20          | Direct download     | [ZIP](https://ggl.link/5CKw3Kr)                                                                |
 | D64 | iPhone 13 Pro     | 76 / 76          | Flickr references   | [JSON](https://ggl.link/VafCsVT)                                                               |
-| D65 | iPhone 13 Pro     | 10 / 10          | Flickr references   | [JSON](https://drive.google.com/file/d/1kGs7ozUNP5QzD_wprgRPvGeFNP6keCVJ/view?usp=drive_link)  |
+| D65 | iPhone 13 Pro     | 10 / 10          | Flickr references   | [JSON](https://ggl.link/mLLfUrB)                                                               |
 | D66 | iPhone 13 Pro     | 0 / 12           | External (GSMArena) | [iPhone 13 Pro review](https://www.gsmarena.com/apple_iphone_13_pro-review-2331p5.php)         |
 | D67 | iPhone 13 Pro Max | 0 / 14           | External (GSMArena) | [iPhone 13 Pro Max review](https://www.gsmarena.com/apple_iphone_13_pro_max-review-2326p6.php) |
-| D68 | iPhone 13 Pro Max | 20 / 20          | Direct download     | [ZIP](https://drive.google.com/file/d/1ZD7sHoMZm1Wumpcdu2IU3IqrviltvQnF/view?usp=drive_link)   |
-| D69 | iPhone 13 Pro Max | 13 / 13          | Direct download     | [ZIP](https://drive.google.com/file/d/1p3ZHAKeVaywQIeAgN1zekY4KR6wkFqMP/view?usp=drive_link)   |
+| D68 | iPhone 13 Pro Max | 20 / 20          | Direct download     | [ZIP](https://ggl.link/sXhbCG5)                                                                |
+| D69 | iPhone 13 Pro Max | 13 / 13          | Direct download     | [ZIP](https://ggl.link/d2K0fGB)                                                                |
 | D70 | iPhone SE (3rd)   | 0 / 6            | External (GSMArena) | [iPhone SE (3rd) review](https://www.gsmarena.com/apple_iphone_se_2022-review-2405p5.php)      |
 | D71 | iPhone 14         | 0 / 6            | External (GSMArena) | [iPhone 14 review](https://www.gsmarena.com/apple_iphone_14-review-2481p5.php)                 |
-| D72 | iPhone 14         | 20 / 20          | Direct download     | [ZIP](https://drive.google.com/file/d/1ALBH5kwxZfpCz_CS1T6BYGEuqEoq634Z/view?usp=drive_link)   |
-| D73 | iPhone 14         | 20 / 20          | Direct download     | [ZIP](https://drive.google.com/file/d/1DAu8OlP0xEsu_4Vgyydmnt3898JB2ihL/view?usp=drive_link)   |
+| D72 | iPhone 14         | 20 / 20          | Direct download     | [ZIP](https://ggl.link/3ASNJgj)                                                                |
+| D73 | iPhone 14         | 20 / 20          | Direct download     | [ZIP](https://ggl.link/Uc8aYDI)                                                                |
 | D74 | iPhone 14 Plus    | 0 / 8            | External (GSMArena) | [iPhone 14 Plus review](https://www.gsmarena.com/apple_iphone_14_plus-review-2493p5.php)       |
 | D75 | iPhone 14 Pro     | 0 / 14           | External (GSMArena) | [iPhone 14 Pro review](https://www.gsmarena.com/apple_iphone_14_pro-review-2480p6.php)         |
-| D76 | iPhone 14 Pro Max | 13 / 13          | Direct download     | [ZIP](https://drive.google.com/file/d/1tGSOmRdCzo1Wyh8JvvKlEzamKgHUnRkP/view?usp=drive_link)   |
+| D76 | iPhone 14 Pro Max | 13 / 13          | Direct download     | [ZIP](https://ggl.link/TFmRkMZ)                                                                |
 | D77 | iPhone 14 Pro Max | 0 / 4            | Flickr references   | Not publicly redistributable                                                                   |
 | D78 | iPhone 14 Pro Max | 0 / 18           | External (GSMArena) | [iPhone 14 Pro Max review](https://www.gsmarena.com/apple_iphone_14_pro_max-review-2482p6.php) |
-| D79 | iPhone 14 Pro Max | 20 / 20          | Direct download     | [ZIP](https://drive.google.com/file/d/1N3BTK1TJAZlye1GumXOctnCN69fgyyrp/view?usp=drive_link)   |
-| D80 | iPhone 14 Pro Max | 14 / 14          | Direct download     | [ZIP](https://drive.google.com/file/d/1JgGirpbbO-BJP_zLBGXfXrUHHwCfnX80/view?usp=drive_link)   |
-| D81 | iPhone 15         | 112 / 113        | Direct download     | [ZIP](https://drive.google.com/file/d/1q08X-rNXNDa_nmh_mnoLvC6AgtenK3PS/view?usp=drive_link)   |
+| D79 | iPhone 14 Pro Max | 20 / 20          | Direct download     | [ZIP](https://ggl.link/evbCgBc)                                                                |
+| D80 | iPhone 14 Pro Max | 14 / 14          | Direct download     | [ZIP](https://ggl.link/HKlJ1e3)                                                                |
+| D81 | iPhone 15         | 112 / 113        | Direct download     | [ZIP](https://ggl.link/UZFYnv7)                                                                |
 | D82 | iPhone 15         | 0 / 5            | Flickr references   | Not publicly redistributable                                                                   |
 | D83 | iPhone 15         | 0 / 17           | External (GSMArena) | [iPhone 15 review](https://www.gsmarena.com/apple_iphone_15-review-2619p5.php)                 |
-| D84 | iPhone 15         | 2 / 2            | Direct download     | [ZIP](https://drive.google.com/file/d/1Cl88pPRD9AFHJroI4n-NiQhILKXuk844/view?usp=drive_link)   |
+| D84 | iPhone 15         | 2 / 2            | Direct download     | [ZIP](https://ggl.link/RWlGJ4w)                                                                |
 | D85 | iPhone 15 Plus    | 0 / 10           | External (GSMArena) | [iPhone 15 Plus review](https://www.gsmarena.com/apple_iphone_15_plus-review-2621p5.php)       |
 | D86 | iPhone 15 Pro     | 0 / 18           | External (GSMArena) | [iPhone 15 Pro review](https://www.gsmarena.com/apple_iphone_15_pro-review-2620p5.php)         |
 | D87 | iPhone 15 Pro Max | 0 / 18           | External (GSMArena) | [iPhone 15 Pro Max review](https://www.gsmarena.com/apple_iphone_15_pro_max-review-2618p6.php) |
-| D88 | iPhone 16         | 35 / 50          | Direct download     | [ZIP](https://drive.google.com/file/d/1hLsHKwaTXMm_agLT2YlfOz4qgGO4n9JZ/view?usp=drive_link)   |
+| D88 | iPhone 16         | 35 / 50          | Direct download     | [ZIP](https://ggl.link/6HHT2iM)                                                                |
 | D89 | iPhone 16         | 0 / 8            | External (GSMArena) | [iPhone 16 review](https://www.gsmarena.com/apple_iphone_16-review-2749p5.php)                 |
 | D90 | iPhone 16 Plus    | 0 / 8            | External (GSMArena) | [iPhone 16 Plus review](https://www.gsmarena.com/apple_iphone_16_plus-review-2751p5.php)       |
 | D91 | iPhone 16 Pro     | 0 / 6            | External (GSMArena) | [iPhone 16 Pro review](https://www.gsmarena.com/apple_iphone_16_pro-review-2752p5.php)         |
