@@ -112,13 +112,17 @@ The following table summarizes the **BP Compatibility** across different iPhone 
 
 Table legend:
 
-<span style="color:green">✔</span>: **Full Match**  
-<span style="color:red">✖</span>: **Incompatible**  
+<font color="green">✔</font>: **Full Match**  
+<font color="red">✖</font>: **Incompatible**  
 **(↔)**: **Horizontal Flip** between BPs
 
 **Partial Matches** are categorized into four types based on their specific NCC map characteristics:
 
 <img src="figs/partial_matches.svg" width="100%" alt="Partial Matches Legend">
+
+**Apple's BP Timeline:**
+
+<img src="figs/timeline.png" width="100%" alt="BP timeline">
 
 ---
 
