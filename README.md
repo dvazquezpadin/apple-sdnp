@@ -58,7 +58,8 @@ These resources allow researchers to **reproduce the experiments**, **test new i
 │   ├── BP_compatibility_table.svg
 │   ├── BP_localization.png
 │   ├── partial_matches.svg
-│   └── portrait_mode_diagram.svg
+│   ├── portrait_mode_diagram.svg
+│   └── timeline.svg
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
